@@ -1,5 +1,5 @@
-<h1> Hello, Welcome to HEE-ESAFE SOFTWARES SOLUTIONS </h1>
-<h1> seenu @ Devops Upskill Assesment again <font color="red">This is some text!</font> </h1>
+<h1> Hello, Welcome to <font color="blue"> HEE-ESAFE SOFTWARES SOLUTIONS! </font> </h1>
+<h1> seenu @ Devops Upskill Assesment again </h1>
      <body>
         <%  
             java.util.Date currentDate = new java.util.Date();  
